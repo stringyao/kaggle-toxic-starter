@@ -57,6 +57,8 @@ parameters:
   repeat_block: 1
   dense_size: 256
   repeat_dense: 0
+  output_size: 6
+  output_activation: 'sigmoid'
   max_pooling: 1
   mean_pooling: 0
   weighted_average_attention: 0

@@ -57,6 +57,8 @@ parameters:
   repeat_block: None
   dense_size: None
   repeat_dense: None
+  output_size: None
+  output_activation: None
   max_pooling: None
   mean_pooling: None
   weighted_average_attention: None
