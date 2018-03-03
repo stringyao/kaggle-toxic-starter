@@ -1,4 +1,4 @@
-project-key: TOX
+project-key: SAN
 
 name: toxic
 tags: [glove, lstm, adam]
